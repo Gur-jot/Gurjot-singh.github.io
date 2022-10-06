@@ -4,9 +4,7 @@
 /*
 particlesJS.load('particles-js', 'particles.json', function() {
   console.log('particles.js loaded - callback');
-  });*/
-/* Otherwise just put the config content (json): */
-
+  });*//* Otherwise just put the config content (json): */
 particlesJS('particles-js',
   
   {
@@ -124,5 +122,5 @@ particlesJS('particles-js',
       "background_repeat": "no-repeat",
       "background_size": "cover"
     }
-  }
+ }
 );
